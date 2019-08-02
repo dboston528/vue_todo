@@ -1,5 +1,5 @@
 # vue_crash_todolist
-
+This is a todo lost built using vue.js 
 ## Project setup
 ```
 npm install
